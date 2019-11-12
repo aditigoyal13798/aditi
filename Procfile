@@ -1,1 +1,1 @@
-web:gunicorn hackerpy.wsgi
+web: gunicorn HACKERPY.wsgi
